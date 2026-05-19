@@ -576,6 +576,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Guess CSS](https://www.guess-css.app/)                                               | Another Fun and interactive way to learn CSS.                                                                                                                                         |
 | [CSS Speedrun](https://css-speedrun.netlify.app/)                                     | A CSS speedrun is a challenge to see how quickly a developer can complete a task using only CSS (Cascading Style Sheets).                                                             |
 | [Anchoreum](https://anchoreum.com/)                                                   | A game for learning CSS anchor positioning.                                                                                                                                           |
+| [Flexbox Zombies](https://flexboxzombies.com/)                                        | A story-driven course-game where you learn **CSS Flexbox** by hunting zombies across 12 missions.                                                                                     |
 
 [⬆ back to top](#table-of-contents)
 
