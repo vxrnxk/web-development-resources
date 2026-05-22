@@ -53,27 +53,27 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Hosting:
 
-| Website                                                        | Description                                                                                                                                                                                                                                    |
-|----------------------------------------------------------------| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Netlify](https://netlify.com)                                 | **Netlify** unites an entire ecosystem of modern tools and services into a single, simple workflow for building high-performance sites and apps.                                                                                               |
-| [Firebase](https://firebase.google.com)                        | **Firebase** helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises                                                                                          |
-| [Amazon Web Services](https://aws.amazon.com)                  | **Amazon** Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.                                                                                              |
-| [GitHub Pages](https://pages.github.com)                       | **GitHub** Pages are websites for you and your projects. It is hosted directly from your GitHub repository. You just have to edit, push, and your changes are live.                                                                            |
-| [Vercel](https://vercel.com)                                   | **Vercel** combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship.                                                 |
-| [Surge](https://surge.sh)                                      | **Surge** is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line.                                                           |
-| [Render](https://render.com)                                   | **Render** is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.                                                              |
-| [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/) | **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.                                                            |
-| [Stormkit](https://stormkit.io)                                | **Stormkit** can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.                                                                        |
-| [DigitalOcean](https://www.digitalocean.com/)                  | **DigitalOcean** has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results.                  |
-| [InfinityFree](https://infinityfree.com/)                      | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                                        |
-| [Cloudflare Pages](https://pages.cloudflare.com/)              | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                                    |
-| [Sevalla](https://sevalla.com/static-site-hosting/)            | **Sevalla** is a PaaS platform for your applications, databases and static sites. It allows you to create up to 100 free static sites including 600 free build minutes and 100GB bandwidth/mo.                                                 |
-| [Supabase](https://supabase.com)                               | **Supabase** is an open-source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                                            |
-| [Railway](https://railway.com/)                                | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.                                                                                      |
-| [Fly](https://fly.io/)                                         | **Fly** is a platform for running full-stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great.                                                                            |
-| [Fleek](https://www.fleek.sh/)                                 | **Fleek** makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers.                                                                                  |
-| [EdgeOne Pages](https://edgeone.ai/products/pages)             | **EdgeOne Pages** enables you to create and launch stunning websites quickly, leveraging edge technology for optimal performance.                                                                                                              |
-| [Juno](https://juno.build/)                                    | **Juno** is an open-source serverless platform for hosting static websites, building web applications, and running serverless functions with the privacy and control of self-hosting.                                                          |
+| Website                                                        | Description                                                                                                                                                                                                                                |
+|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Netlify](https://netlify.com)                                 | **Netlify** unites an entire ecosystem of modern tools and services into a single, simple workflow for building high-performance sites and apps.                                                                                           |
+| [Firebase](https://firebase.google.com)                        | **Firebase** helps you build and run successful apps. It is backed by Google and loved by app development teams - from startups to global enterprises                                                                                      |
+| [Amazon Web Services](https://aws.amazon.com)                  | **Amazon** Web Services offers a broad set of global cloud-based products and services help organizations move faster, lower IT costs, and scale.                                                                                          |
+| [GitHub Pages](https://pages.github.com)                       | **GitHub** Pages are websites for you and your projects. It is hosted directly from your GitHub repository. You just have to edit, push, and your changes are live.                                                                        |
+| [Vercel](https://vercel.com)                                   | **Vercel** combines the best developer experience with an obsessive focus on end-user performance. It enables frontend teams to do their best work. You just have to develop preview and ship.                                             |
+| [Surge](https://surge.sh)                                      | **Surge** is static web publishing for Front-End Developers. It is simple, single-command web publishing. It publishes HTML, CSS, and JS for free, without leaving the command line.                                                       |
+| [Render](https://render.com)                                   | **Render** is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.                                                          |
+| [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/) | **GitLab** Pages - static websites directly from a repository in GitLab. To publish a website one can use any static site generator or any plain written HTML, CSS, and JavaScript.                                                        |
+| [Stormkit](https://stormkit.io)                                | **Stormkit** can easily manage your frontend infrastructure. It integrates perfectly with your git flow. It helps you build, deploy and scale your web apps seamlessly.                                                                    |
+| [DigitalOcean](https://www.digitalocean.com/)                  | **DigitalOcean** has the cloud computing services you need, with predictable pricing, robust documentation, and scalability to support your growth at any stage. It is simpler cloud for happier devs to have better results.              |
+| [InfinityFree](https://infinityfree.com/)                      | **InfinityFree** is fully featured, completely free website hosting with PHP, MySQL and no ads on site.                                                                                                                                    |
+| [Cloudflare Pages](https://pages.cloudflare.com/)              | **Cloudflare Pages** is a JAMstack platform for frontend developers to collaborate and deploy websites. It offers free unlimited bandwidth.                                                                                                |
+| [Sevalla](https://sevalla.com/static-site-hosting/)            | **Sevalla** is a PaaS platform for your applications, databases and static sites. It allows you to create up to 100 free static sites including 600 free build minutes and 100GB bandwidth/mo.                                             |
+| [Supabase](https://supabase.com)                               | **Supabase** is an open-source Firebase alternative. Start your project with a Postgres Database, Authentication, instant APIs, Realtime subscriptions and Storage.                                                                        |
+| [Railway](https://railway.com/)                                | **Railway** is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.                                                                                  |
+| [Fly](https://fly.io/)                                         | **Fly** is a platform for running full-stack apps and databases close to your users. We’ve been hammering on this thing since 2017, and we think it’s pretty great.                                                                        |
+| [Fleek](https://www.fleek.sh/)                                 | **Fleek** makes it easy to build websites and apps on the new open web: permissionless, trustless, censorship resistant, and free of centralized gatekeepers.                                                                              |
+| [EdgeOne Pages](https://edgeone.ai/products/pages)             | **EdgeOne Pages** enables you to create and launch stunning websites quickly, leveraging edge technology for optimal performance.                                                                                                          |
+| [Juno](https://juno.build/)                                    | **Juno** is an open-source serverless platform for hosting static websites, building web applications, and running serverless functions with the privacy and control of self-hosting.                                                      |
 
 
 [⬆ back to top](#table-of-contents)
@@ -349,7 +349,6 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [The Changelog](https://changelog.com/)                                |
 | [The Laracasts Snippet](https://laracasts.com/podcast)                 |
 | [Front End Happy Hour](https://frontendhappyhour.com/)                 |
-| [JavaScript Jabber](https://topenddevs.com/podcasts/javascript-jabber) |
 | [Shop Talk](https://shoptalkshow.com/)                                 |
 | [CodePen Radio](https://blog.codepen.io/radio/)                        |
 | [React Native Radio](https://infinite.red/react-native-radio?from=/)   |
@@ -476,36 +475,36 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Chrome Extensions:
 
-| Website                                                                                                                                             |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)                                            |
-| [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)                                                  |
-| [JSONView](https://chromewebstore.google.com/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)                                                      |
-| [daily.dev - News for Busy Developers](https://chromewebstore.google.com/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en)   |
-| [Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)                                            |
-| [Checkbot - SEO, speed & security checker](https://chromewebstore.google.com/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)     |
-| [WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)                                                |
-| [Visbug](https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)                                                          |
-| [Colorzilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)                                         |
-| [Window Resizer](https://chromewebstore.google.com/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                    |
-| [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                      |
-| [Hackertab.dev - All Developer news in 1 tab](https://chromewebstore.google.com/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp)  |
-| [Vue Developer Tools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)                                     |
-| [Related Repos](https://chromewebstore.google.com/detail/related-repos/hjjchbgenhmnndipngamcilolaahgngc)                                     |
+| Website                                                                                                                                            |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)                                           |
+| [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)                                                 |
+| [JSONView](https://chromewebstore.google.com/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)                                                     |
+| [daily.dev - News for Busy Developers](https://chromewebstore.google.com/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en)  |
+| [Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en)                                           |
+| [Checkbot - SEO, speed & security checker](https://chromewebstore.google.com/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)    |
+| [WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)                                               |
+| [Visbug](https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc)                                                         |
+| [Colorzilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en-US)                                        |
+| [Window Resizer](https://chromewebstore.google.com/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)                                   |
+| [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)                     |
+| [Hackertab.dev - All Developer news in 1 tab](https://chromewebstore.google.com/detail/hackertabdev-developer-ne/ocoipcahhaedjhnpoanfflhbdcpmalmp) |
+| [Vue Developer Tools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)                                    |
+| [Related Repos](https://chromewebstore.google.com/detail/related-repos/hjjchbgenhmnndipngamcilolaahgngc)                                           |
 
 [⬆ back to top](#table-of-contents)
 
 ## Website Optimization Tools:
 
-| Website                                                 |
-|---------------------------------------------------------|
-| [Google PageSpeed Insights](https://pagespeed.web.dev/) |
-| [GTmetrix](https://gtmetrix.com/)                       |
-| [WebPageTest](https://www.webpagetest.org)              |
-| [Yslow](https://yslow.org/)                             |
-| [Optimizilla](https://imagecompressor.com/)             |
-| [SEOTester](https://seotest.me/)                        |
-| [CORS-Tester](https://cors-error.dev/cors-tester/)      |
+| Website                                                  |
+|----------------------------------------------------------|
+| [Google PageSpeed Insights](https://pagespeed.web.dev/)  |
+| [GTmetrix](https://gtmetrix.com/)                        |
+| [WebPageTest](https://www.webpagetest.org)               |
+| [Yslow](https://yslow.org/)                              |
+| [Optimizilla](https://imagecompressor.com/)              |
+| [SEOTester](https://seotest.me/)                         |
+| [CORS-Tester](https://cors-error.dev/cors-tester/)       |
 | [Foglift](https://foglift.io)                            |
 
 [⬆ back to top](#table-of-contents)
@@ -534,7 +533,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 | Website                                                                                | Topics                                                          |
 |----------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-| [Marko Tech Tips](https://markodenic.com/newsletter/)                                  | Useful tech tips, directly to your inbox.                       |
+| [Marko Tech Tips](https://markodenic.tech/)                                            | Useful tech tips, directly to your inbox.                       |
 | [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)       | Front-end and UX.                                               |
 | [Frontend Focus](https://frontendfoc.us/)                                              | HTML, CSS, WebGL, Canvas, browser tech, and more.               |
 | [CSS Weekly](https://css-weekly.com/)                                                  | CSS.                                                            |
@@ -581,32 +580,34 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Online Tools:
 
-| Website                                                                          | Description                                                                                                               |
-|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| [PRM](https://prm.pushkaryadav.in/)                                              | Project & Profile Readme Maker : easiest way to create amazing readme's for your github projects and profile              |
-| [QR Code Generator](https://markodenic.com/tools/qr-code-generator/)             | Use QR code generator to easily create a QR code for your project.                                                        |
-| [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set.                                                     |
-| [Gradient Art](https://gra.dient.art/)                                           | An advanced CSS gradient editor with layering, design tools and free cloud storage                                        |
-| [JSONT](https://www.jsont.run/)                                                  | A simple and powerful JSON formatting tool                                                                                |
-| [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                             |
-| [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                                    |
-| [JSONing](https://jsoning.com/)                                                  | A suite of JSON tools, including a formatter, validator, converter, generator, merger, and Mock API                       |
-| [Markdown Tools](https://markdowntools.com)                                      | A suite of free tools for converting HTML, CSVs, PDFs, and Excel files to and from Markdown                               |
-| [OnlineInterview.io](https://onlineinterview.io/)                                | Free interviewing platform with shared code editor, drawing board and video chat.                                         |
-| [Rtcd.io](https://rtcd.io/)                                                      | A simple yet powerful online toolbox for encoding, encryption, data conversion, image processing and more.                |
-| [Alphavids.io](https://alphavids.io/)                                            | Transparent WEBM to MP4 converter.                                                                                        |
-| [convertiraudioamp3.com](https://convertiraudioamp3.com/)                        | Browser-based audio toolbox to convert, trim, mix, and compress MP3s, voice notes, and video audio using FFmpeg — handy for preparing sound assets for web and mobile projects. |
-| [StyleShift](https://styleshift.shefali.dev/)                                    | CSS to Tailwind converter, designed to seamlessly transform your custom CSS into efficient, responsive Tailwind CSS code. |
-| [10015.io](https://10015.io/)                                                    | All-in-one toolbox to make life easier. Includes CSS generators, AI palette generator, and much more.                     |
-| [ToolsChimp.com](https://toolschimp.com/)                                        | 1000+ Free Online tools. No Signup, No Paywall. Color Converters, Image Tools, Video Tools, etc.,                         |
-| [volumeshaderbm.org](https://volumeshaderbm.org)                                 | A browser-based volume shader benchmark with interactive kernels and reproducible presets.                                |
-| [Format JSON Online](https://formatjsononline.com)                               | A Complete Toolkit for JSON & Data Processing.                                                     |
+| Website                                                                          | Description                                                                                                                                                                                                          |
+|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Article Banner](https://articlebanner.com)                                      | Free OG image and blog cover creator for generating article banners and social media preview images.                                                                                                                 |
+| [Snippet Editor](https://snippeteditor.com)                                      | Create beautiful code screenshot images to share on social media or documentation.                                                                                                                                   |
+| [PRM](https://prm.pushkaryadav.in/)                                              | Project & Profile Readme Maker : easiest way to create amazing readme's for your github projects and profile                                                                                                         |
+| [QR Code Generator](https://markodenic.com/tools/qr-code-generator/)             | Use QR code generator to easily create a QR code for your project.                                                                                                                                                   |
+| [Google Analytics Checker](https://www.statsglitch.com/google-analytics-checker) | Scan your project to ensure that Google Analytcs tag is properly set.                                                                                                                                                |
+| [Gradient Art](https://gra.dient.art/)                                           | An advanced CSS gradient editor with layering, design tools and free cloud storage                                                                                                                                   |
+| [JSONT](https://www.jsont.run/)                                                  | A simple and powerful JSON formatting tool                                                                                                                                                                           |
+| [JSON Crack](https://jsoncrack.com/)                                             | A simple tool to visualize JSON Code in a neat tree structure                                                                                                                                                        |
+| [Codepng](https://codepng.app/)                                                  | Convert your source code into awesome shareable images                                                                                                                                                               |
+| [JSONing](https://jsoning.com/)                                                  | A suite of JSON tools, including a formatter, validator, converter, generator, merger, and Mock API                                                                                                                  |
+| [Markdown Tools](https://markdowntools.com)                                      | A suite of free tools for converting HTML, CSVs, PDFs, and Excel files to and from Markdown                                                                                                                          |
+| [OnlineInterview.io](https://onlineinterview.io/)                                | Free interviewing platform with shared code editor, drawing board and video chat.                                                                                                                                    |
+| [Rtcd.io](https://rtcd.io/)                                                      | A simple yet powerful online toolbox for encoding, encryption, data conversion, image processing and more.                                                                                                           |
+| [Alphavids.io](https://alphavids.io/)                                            | Transparent WEBM to MP4 converter.                                                                                                                                                                                   |
+| [convertiraudioamp3.com](https://convertiraudioamp3.com/)                        | Browser-based audio toolbox to convert, trim, mix, and compress MP3s, voice notes, and video audio using FFmpeg — handy for preparing sound assets for web and mobile projects.                                      |
+| [StyleShift](https://styleshift.shefali.dev/)                                    | CSS to Tailwind converter, designed to seamlessly transform your custom CSS into efficient, responsive Tailwind CSS code.                                                                                            |
+| [10015.io](https://10015.io/)                                                    | All-in-one toolbox to make life easier. Includes CSS generators, AI palette generator, and much more.                                                                                                                |
+| [ToolsChimp.com](https://toolschimp.com/)                                        | 1000+ Free Online tools. No Signup, No Paywall. Color Converters, Image Tools, Video Tools, etc.,                                                                                                                    |
+| [volumeshaderbm.org](https://volumeshaderbm.org)                                 | A browser-based volume shader benchmark with interactive kernels and reproducible presets.                                                                                                                           |
+| [Format JSON Online](https://formatjsononline.com)                               | A Complete Toolkit for JSON & Data Processing.                                                                                                                                                                       |
 | [webtoolz](https://webtoolz.dev)                                                 | Complete JSON toolkit: format, validate, minify, diff, and AI-powered repair. Convert JSON ↔ YAML/CSV, validate against JSON Schema, create instant mock APIs. Shareable links that never expire. 100% browser-only. |
-| [WordToTime](https://wordtotime.org)                                             | A browser-based calculator that estimates speaking/reading time for scripts, documentation, and content. Useful for podcasts, videos, tutorials, and technical presentations.  |
-| [ToolZack](https://toolzack.com)                                                 | A friendly web toolkit for converting, encoding, formatting and styling text. Over 120 free tools.                        |
-| [AutoChangelog](https://autochangelog.com)                                       | Automatically turn pull requests, code changes, and commits into readable changelogs.                                     |
-| [Preflight](https://preflight.sh)                                                | Stop embarrassing yourself in production. Scan your codebase for launch readiness before you ship.                        |
-| [Speaking Time Calculator](https://speakingtimecalculator.org)                   | A free online tool to estimate speaking or presentation time based on text length and speaking pace (WPM).                  |
+| [WordToTime](https://wordtotime.org)                                             | A browser-based calculator that estimates speaking/reading time for scripts, documentation, and content. Useful for podcasts, videos, tutorials, and technical presentations.                                        |
+| [ToolZack](https://toolzack.com)                                                 | A friendly web toolkit for converting, encoding, formatting and styling text. Over 120 free tools.                                                                                                                   |
+| [AutoChangelog](https://autochangelog.com)                                       | Automatically turn pull requests, code changes, and commits into readable changelogs.                                                                                                                                |
+| [Preflight](https://preflight.sh)                                                | Stop embarrassing yourself in production. Scan your codebase for launch readiness before you ship.                                                                                                                   |
+| [Speaking Time Calculator](https://speakingtimecalculator.org)                   | A free online tool to estimate speaking or presentation time based on text length and speaking pace (WPM).                                                                                                           |
 
 [⬆ back to top](#table-of-contents)
 
@@ -655,12 +656,12 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 
 ## Angular UI libraries:
 
-| Website                                           | Description                                                                                                        |
-|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| [Taiga UI](https://taiga-ui.dev/)                 | A powerful set of open source components for Angular                                                               |
+| Website                                           | Description                                                                                                       |
+|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| [Taiga UI](https://taiga-ui.dev/)                 | A powerful set of open source components for Angular                                                              |
 | [PrimeNG](https://www.primefaces.org/primeng/)    | Angular UI Component Library featuring elegant, high-performance, accessible and fully customizable UI Components. |
-| [Angular Material](https://material.angular.dev/)  | Angular Material is a UI library component developed by Google in 2014.                                            |
-| [TailAdmin Angular](https://tailadmin.com/angular)| Open-source Angular Tailwind CSS Admin Dashboard Template and UI Components                                        |
+| [Angular Material](https://material.angular.dev/)  | Angular Material is a UI library component developed by Google in 2014.                                           |
+| [TailAdmin Angular](https://tailadmin.com/angular)| Open-source Angular Tailwind CSS Admin Dashboard Template and UI Components                                       |
 
 
 [⬆ back to top](#table-of-contents)
