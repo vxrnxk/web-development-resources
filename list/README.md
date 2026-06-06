@@ -696,6 +696,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Web Searcher](https://websearcher.vercel.app/)                 | Create Open Graph, Twitter and basic meta tags easily                        |
 | [PerfectBugReport.io](https://perfectbugreport.io/)             | A simple checklist of the essential items to include in bug reports.         |
 | [Vue CheatSheet](https://vue-cheatsheet.themeselection.com/)    | an interactive cheatsheet of Vue, Vue Router, and Pinia.                     |
+| [React Cheat Sheet](https://www.cheatgrid.com/web-development/0022-react-frontend-framework-cheat-sheet) | Free React quick-reference covering hooks, components, lifecycle, and more. CheatGrid offers many other web development cheat sheets. |
 | [ConvertHub API](https://converthub.com/api)                    | File Conversion API for Developers                                           |
 | [Tech Terms](https://techterms.io/)                             | A beginner-friendly glossary built by the community, for the community       |
 | [DevTool](https://devtool.io)                                   | Curated directory of tools for frontend, backend, DevOps, AI, and more.      |
